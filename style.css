@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+*{ 
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+body {
+    background-color: rgb(241, 231, 231);
+    width: 100vw;
+    height: 100vh;
+}
+
+header {
+    background-color: rgb(241, 231, 231);
+    margin: 10px;
+    height: 100px;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+nav#commenu {
+    background-color: darkolivegreen;
+    border: 1px solid blanchedalmond;
+    padding: 15px;
+    color: beige;
+    font-size: 1em;
+    text-align: center;   
+    
+}
+
+a {
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.4em;
+    text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration:underline;
+    color: beige;
+}
+
+input#ipesquisa {
+    font-size: 1.2em;
+    border-radius: 2px;
+    border: 2px solid black;
+    text-align: center;
+    width: 50%;
+    height: 30%;
+    
+    
+}
+
+span.material-symbols-outlined {
+    color: darkolivegreen;
+    
+    
+    
+    
+}
+
+
+
+
